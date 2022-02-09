@@ -20,4 +20,4 @@ For creating a new File Type, click the New button (+) in the [Generic Menu](gen
 
 ![data file type new](https://user-images.githubusercontent.com/54523080/149071736-316f3695-073c-4d31-9d1c-194d89099e3a.png)
 
-Note that creating a File Type is similar to create a Document Type. However on this case defining the schema is not mandatory considering sometimes we need to say the data is a png image and we don't need to worry about is structure.
+Note that creating a File Type is similar to create a Document Type. However on this case defining the schema is not mandatory considering sometimes we need to say the data is a png image and we don't need to worry about its structure.
